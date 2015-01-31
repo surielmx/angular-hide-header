@@ -1,0 +1,26 @@
+{
+  "name": "angular-hideheader",
+  "version": "0.0.1",
+  "authors": [
+    "Mario Flores <pokazzam@gmail.com>"
+  ],
+  "description": "angular directive to hide header when scroll page down and show when scroll up",
+  "keywords": [
+    "hide-header",
+    "angular-hide-header",
+    "hide",
+    "header"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.28"
+  }
+}
