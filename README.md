@@ -45,7 +45,9 @@ Configuration
   <header hide-header hide-offset="80">
     ...
   </header>
-    ```
+  ```
+
+---------
 
 Next step:
 =======
