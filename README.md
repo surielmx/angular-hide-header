@@ -39,7 +39,7 @@ Configuration
 --- 
   Add **hide-offset** to specify from which pixels from the top header will hide
 
-    scroll-watch-enabled
+    hide-offset
   
   ```html
   <header hide-header hide-offset="60">
