@@ -37,12 +37,12 @@ Usage
   
 Configuration
 --- 
-  Add **hide-offset** to specify from which pixels from the top header will hide
+  Add **hide-offset** to specify from which pixels from the top header will hide. Default value is 60.
 
-    hide-offset="60"
+    hide-offset="80"
   
   ```html
-  <header hide-header hide-offset="60">
+  <header hide-header hide-offset="80">
     ...
   </header>
     ```
