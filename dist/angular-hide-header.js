@@ -1,7 +1,6 @@
 (function(){
 	'use strict';
-	angular.module('angularHideHeader',[]).directive('hideHeader',hideHeader);
-	function hideHeader($timeout, $window){
+	angular.module('angularHideHeader',[]).directive('hideHeader',['$timeout','$window',function($timeout,$window){
 		return{
 			restrict:'A',
 		  	link: function (scope, element, attrs) {
@@ -40,6 +39,6 @@
 					},60);
 				});
 			}
-		}
-	}
+		}		
+	}]);
 }());
