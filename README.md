@@ -39,7 +39,7 @@ Configuration
 --- 
   Add **hide-offset** to specify from which pixels from the top header will hide
 
-    hide-offset
+    hide-offset="60"
   
   ```html
   <header hide-header hide-offset="60">
