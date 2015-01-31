@@ -5,6 +5,7 @@
     "Mario Flores <pokazzam@gmail.com>"
   ],
   "description": "angular directive to hide header when scroll page down and show when scroll up",
+  "main": "dist/angular-hide-header.min.js",
   "keywords": [
     "hide-header",
     "angular-hide-header",
@@ -12,6 +13,7 @@
     "header"
   ],
   "license": "MIT",
+  "homepage":"https://github.com/pokaxperia/angular-hideheader",
   "ignore": [
     "**/.*",
     "node_modules",
