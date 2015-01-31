@@ -1,6 +1,6 @@
 {
   "name": "angular-hideheader",
-  "version": "1.0.0",
+  "semver": "1.0.0",
   "authors": [
     "Mario Flores <pokazzam@gmail.com>"
   ],
