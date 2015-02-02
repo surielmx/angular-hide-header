@@ -48,7 +48,3 @@ Configuration
   ```
 
 ---------
-
-Next step:
-=======
-* Hide header when select menu item! 
